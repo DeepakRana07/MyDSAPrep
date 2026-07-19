@@ -15,4 +15,12 @@ Comprehensive Data Structures and Algorithms practice, tracking my journey and s
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
