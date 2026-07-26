@@ -23,6 +23,7 @@ Comprehensive Data Structures and Algorithms practice, tracking my journey and s
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,5 @@ Comprehensive Data Structures and Algorithms practice, tracking my journey and s
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
