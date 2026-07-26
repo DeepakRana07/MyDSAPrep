@@ -20,6 +20,7 @@ Comprehensive Data Structures and Algorithms practice, tracking my journey and s
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -30,6 +31,7 @@ Comprehensive Data Structures and Algorithms practice, tracking my journey and s
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
