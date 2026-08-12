@@ -48,4 +48,5 @@ Comprehensive Data Structures and Algorithms practice, tracking my journey and s
 | [1527-patients-with-a-condition](https://github.com/DeepakRana07/MyDSAPrep/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/DeepakRana07/MyDSAPrep/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DeepakRana07/MyDSAPrep/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/DeepakRana07/MyDSAPrep/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
