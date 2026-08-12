@@ -39,4 +39,8 @@ Comprehensive Data Structures and Algorithms practice, tracking my journey and s
 | [0162-find-peak-element](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DeepakRana07/MyDSAPrep/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/DeepakRana07/MyDSAPrep/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
